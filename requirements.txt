@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+numpy
+sentence-transformers
+plotly
+reportlab
